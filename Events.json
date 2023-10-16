@@ -1,6 +1,6 @@
 [
     {
-        "event_id": "12",
+        "service_id": "12",
         "title": "Photos with Ryan Reynolds",
         "image": "Ryan_Reynolds.jpg",
         "short_description": "Ryan Reynolds will be appearing as Hal Jordan.",
@@ -21,7 +21,7 @@
         ]
     },
     {
-        "event_id": "16",
+        "service_id": "16",
         "title": "Pokemon Tattoos",
         "image": "Pokemon.png",
         "short_description": "Choose one of 17 great Pokemon tattoos and have our artist ink it for you.",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "event_id": "19",
+        "service_id": "19",
         "title": "High Tea with Yaya Han",
         "image": "Yaya_Han.jpg",
         "short_description": "Yaya Han will have high tea with 8 great cosplayers. Note: Cosplayers only.",
