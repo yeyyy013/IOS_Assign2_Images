@@ -1,0 +1,63 @@
+[
+    {
+        "event_id": "12",
+        "title": "Photos with Ryan Reynolds",
+        "image": "Ryan_Reynolds.jpg",
+        "short_description": "Ryan Reynolds will be appearing as Hal Jordan.",
+        "long_description": "Meet with Ryan Reynolds and have your photo taken while he appears dressed in his finest role, Hal Jordan from the movie Green Lantern. You can to provide your own device (camera or phone), or for a $15 surcharge our photographer will take the photo and provide a digital version and a 15x10cm print.",
+        "sessions": [
+            "Saturday 2:00pm",
+            "Saturday 2:05pm",
+            "Saturday 2:10pm",
+            "Saturday 2:15pm",
+            "Saturday 2:20pm",
+            "Saturday 2:25pm",
+            "Sunday 2:00pm",
+            "Sunday 2:05pm",
+            "Sunday 2:10pm",
+            "Sunday 2:15pm",
+            "Sunday 2:20pm",
+            "Sunday 2:25pm"
+        ]
+    },
+    {
+        "event_id": "16",
+        "title": "Pokemon Tattoos",
+        "image": "Pokemon.png",
+        "short_description": "Choose one of 17 great Pokemon tattoos and have our artist ink it for you.",
+        "long_description": "We have selected 17 of the best Pokemon ever, and this is your chance to have one of them permanently inked on to your unique canvas. Please make sure that you have eaten and had something to drink before attending. We will not ink anyone under the influence of alchol.",
+        "sessions": [
+            "Saturday 10:00am",
+            "Saturday 10:30am",
+            "Saturday 11:00am",
+            "Saturday 12:00pm",
+            "Saturday 12:30pm",
+            "Saturday 1:00pm",
+            "Saturday 1:30pm",
+            "Saturday 2:00pm",
+            "Saturday 2:30pm",
+            "Saturday 3:00pm",
+            "Sunday 10:00am",
+            "Sunday 10:30am",
+            "Sunday 11:00am",
+            "Sunday 12:00pm",
+            "Sunday 12:30pm",
+            "Sunday 1:00pm",
+            "Sunday 1:30pm",
+            "Sunday 2:00pm",
+            "Sunday 2:30pm",
+            "Sunday 3:00pm"
+        ]
+    },
+    {
+        "event_id": "19",
+        "title": "High Tea with Yaya Han",
+        "image": "Yaya_Han.jpg",
+        "short_description": "Yaya Han will have high tea with 8 great cosplayers. Note: Cosplayers only.",
+        "long_description": "Yaya Han is oen of the world's best cosplayers, and on Sunday she will be available to have high tea. You must come in costume, and only eight seats are available at the table.",
+        "Sessions": [
+            "Saturday 3:00pm",
+            "Sunday 3:00pm"
+        ]
+    }
+]
